@@ -1,0 +1,8 @@
+Bloch sphere:
+https://en.wikipedia.org/wiki/Bloch_sphere
+
+3D Arrows:
+https://stackoverflow.com/questions/29188612/arrows-in-matplotlib-using-mplot3d
+
+3D Matplotlib:
+https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
